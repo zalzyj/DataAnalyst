@@ -1,0 +1,70 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+PRODID:-//CALENDARSERVER.ORG//NONSGML Version 1//EN
+METHOD:REQUEST
+BEGIN:VEVENT
+ATTENDEE;CN=Chookie Inthebackyard;CUTYPE=INDIVIDUAL;
+ EMAIL=ehrebeniuk@optushome.com.au;PARTSTAT=NEEDS-ACTION;
+ ROLE=REQ-PARTICIPANT;RSVP=TRUE:mailto:ehrebeniuk@optushome.com.au
+ATTENDEE;CN=David Tran;CUTYPE=INDIVIDUAL;EMAIL=snippytran@gmail.com;
+ PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE:mailto:
+ snippytran@gmail.com
+ATTENDEE;CN=Gina Grimes;CUTYPE=INDIVIDUAL;EMAIL=grimesir@bigpond.net.au;
+ PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE:mailto:
+ grimesir@bigpond.net.au
+ATTENDEE;CN=Melody Yue;CUTYPE=INDIVIDUAL;EMAIL=yue.melody@gmail.com;
+ PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE:mailto:
+ yue.melody@gmail.com
+ATTENDEE;CN=Michael Lum Mow;CUTYPE=INDIVIDUAL;EMAIL=mlummow@gmail.com;
+ PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE:mailto:
+ mlummow@gmail.com
+ATTENDEE;CN=Rachel Farrar;CUTYPE=INDIVIDUAL;EMAIL=rach.farrar@gmail.com;
+ PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE:mailto:
+ rach.farrar@gmail.com
+ATTENDEE;CN=Stephen Farrar;CUTYPE=INDIVIDUAL;
+ EMAIL=stephen.farrar@gmail.com;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;
+ RSVP=TRUE:mailto:stephen.farrar@gmail.com
+ATTENDEE;CN=YIMIN JIANG;CUTYPE=INDIVIDUAL;EMAIL=jackyjiang73@gmail.com;
+ PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE:mailto:
+ jackyjiang73@gmail.com
+ATTENDEE;CN=afreer@internode.on.net;CUTYPE=INDIVIDUAL;
+ EMAIL=afreer@internode.on.net;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;
+ RSVP=TRUE:mailto:afreer@internode.on.net
+ATTENDEE;CN=bwright@uon.edu.au;CUTYPE=INDIVIDUAL;EMAIL=bwright@uon.edu.au;
+ PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;RSVP=TRUE:mailto:
+ bwright@uon.edu.au
+ATTENDEE;CN=jo-ann@stjamesberala.org.au;CUTYPE=INDIVIDUAL;
+ EMAIL=jo-ann@stjamesberala.org.au;PARTSTAT=NEEDS-ACTION;
+ ROLE=REQ-PARTICIPANT;RSVP=TRUE:mailto:jo-ann@stjamesberala.org.au
+ATTENDEE;CN=miles_zip@hotmail.com;CUTYPE=INDIVIDUAL;
+ EMAIL=miles_zip@hotmail.com;PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;
+ RSVP=TRUE:mailto:miles_zip@hotmail.com
+ATTENDEE;CN=stagephaganagie@hotmail.com;CUTYPE=INDIVIDUAL;
+ EMAIL=stagephaganagie@hotmail.com;PARTSTAT=NEEDS-ACTION;
+ ROLE=REQ-PARTICIPANT;RSVP=TRUE:mailto:stagephaganagie@hotmail.com
+CREATED:20180611T131007Z
+DESCRIPTION:Agenda:\n* dinner\n* prayer\n* key values\, skills\, time\n* 
+ term 3\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the 
+ description.\n\nView your event at https:
+ //www.google.com/calendar/event?action=VIEW&eid=MDlxM2FlaHMzNWc5N25kNjJvOG
+ VybTRtMjAgZWhyZWJlbml1a0BvcHR1c2hvbWUuY29tLmF1&tok=MjQjc3RlcGhlbi5mYXJyYXJ
+ AZ21haWwuY29tNDk5OTNmNzAzNzE3OWU2ZGY2ZGQ5MjlhNjFkZmNkNDUyMTc3ZGZmYw&ctz=Au
+ stralia%2FSydney&hl=en_GB&es=1.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+DTEND:20180708T100000Z
+DTSTART:20180708T080000Z
+LAST-MODIFIED:20180703T121238Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Discipleship Group Leaders Meeting
+TRANSP:OPAQUE
+UID:09q3aehs35g97nd62o8erm4m20@google.com
+DTSTAMP:20180703T121245Z
+ORGANIZER;CN=Stephen Farrar;EMAIL=stephen.farrar@gmail.com:mailto:
+ 2_GEYDAMRXGE3DKMBZGEYDAMRXGGLMY4ZZG4364FTSBIF3L6O3UU4YF5SEH2TEGNB2D77FNMUO
+ IFDJG@imip.me.com
+END:VEVENT
+END:VCALENDAR
